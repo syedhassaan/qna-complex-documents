@@ -1,0 +1,57 @@
+Voorbeeld tijdelijk contract  
+ 
+1 Gegevens werkgever  
+Naam: < Bedrijfsnaam >  
+Adres: < Vestigingsadres >  
+<Postcode en plaats >   
+ 
+De werkgever wordt vertegenwoordigd door:  
+ 
+Naam: < Voorletters en achternaam >  
+Hierna te noemen de werkgever.  
+ 
+2 Gegevens werknemer   
+Naam: < Voorletters en achternaam >  
+Adres: < Woonadres >  
+<Postcode en plaats >  
+Geboortedatum: < Geboortedatum >  
+ 
+Hierna te noemen de werknemer.  
+ 
+Werkgever en werknemer komen het volgende overeen:  
+  
+3 Gegevens arbeidsovereenkomst  
+De werknemer treedt op <datum> in dienst bij werkgever op basis van een 
+arbeidsovereenkomst voor bepaalde tijd in de functie van <naam functie> .  
+ 
+Kies een van de volgende mogelijkheden:  
+ 
+o De arbeidsovereenkomst wordt aangegaan voor de duur van <duur 
+arbeidsovereenkomst, bijvoorbee ld zes maanden of een jaar> en eindigt 
+van rechtswege.  
+ 
+o De arbeidsovereenkomst wordt aangegaan voor de periode van <datum> 
+tot <datum> en eindigt van rechtswege.  
+ 
+Kies een van de volgende mogelijkheden:  
+ 
+o Op de arbeidsovereenkomst is geen collectieve arb eidsovereenkomst (cao) 
+van toepassing.  
+ 
+o Op de arbeidsovereenkomst is de collectieve arbeidsovereenkomst (cao) 
+<naam cao> van toepassing. De werknemer ontvangt bij indiensttreding 
+een exemplaar van de cao.  
+ 
+4 Proeftijd  
+Kies een van de volgende mogelijkhe den:  
+ 
+o Er is geen proeftijd.  
+ 
+o Er geldt een proeftijd van <omschrijving duur proeftijd, maximaal één 
+maand bij een contractduur  van meer dan zes maanden maar  korter dan 
+twee jaar  (bij een contract van ten hoogste zes maanden is een proeftijd 
+niet toegestaa n). Maximaal twee maanden bij een contractsduur van twee 
+jaar of langer> , te rekenen vanaf het moment van indiensttreding. Tijdens 
+de proeftijd kan de arbeidsovereenkomst direct worden beëindigd door 
+werkgever of werknemer.  
+ 
